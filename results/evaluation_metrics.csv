@@ -1,0 +1,5 @@
+Target,RMSE,MAE,R2,Pearson_r
+Stress Risk,2.63,1.61,0.993,0.997
+Anxiety Risk,2.4,1.82,0.993,0.997
+Depression Risk,4.21,2.8,0.985,0.995
+Burnout Risk,7.05,2.81,0.973,0.989
